@@ -57,6 +57,8 @@ public class ProductController {
 		mv.addObject("list",order);
 		mv.setViewName("display.jsp");
 		return mv;
+
+		
 	}
 
 
